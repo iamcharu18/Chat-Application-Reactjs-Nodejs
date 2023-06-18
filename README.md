@@ -3,6 +3,11 @@
 This is a simple chat interface made by using React, Express and ChatEngineIO.
 The Chat Interface is made using react-chat-engine-advanced 
 
+## Demo
+
+[![Demo | Chat Application using React, Node & ChatEngineIO](https://img.youtube.com/vi/72wrSOKTlqI/maxresdefault.jpg)](https://www.youtube.com/watch?v=72wrSOKTlqI)
+<a href="https://youtu.be/72wrSOKTlqI" target="_blank">Demo | Chat Application using React, Node & ChatEngineIO</a>
+
 ## Steps to run this repo
 Clone this repo and follow below steps.
 
